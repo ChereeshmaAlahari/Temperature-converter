@@ -32,4 +32,4 @@ This **Temperature Converter** is a simple web application that allows users to 
 #### **Usage**  
 Simply open the `temperature.html` file in any modern web browser, enter a temperature, choose the unit, and press **Convert** to get instant results.  
 
-This project is simple yet practical, making it a great addition to **beginner-friendly web development projects**. 🚀
+
